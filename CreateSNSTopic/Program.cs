@@ -13,8 +13,8 @@
     /// </summary>
     public class CreateSNSTopic
     {
-        private const string AccessKey = "AKIAZOVM3S6TFOYOYKJM";
-        private const string Secret = "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";
+        private const string AccessKey = "";
+        private const string Secret = "";
         public static async Task Main()
         {
             string topicName = "ExampleSNSTopic";
