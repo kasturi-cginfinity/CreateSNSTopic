@@ -1,0 +1,15 @@
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\CreateSNSTopic.exe.config
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\CreateSNSTopic.exe
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\CreateSNSTopic.pdb
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\AWSSDK.Core.dll
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\AWSSDK.SimpleNotificationService.dll
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\AWSSDK.Core.pdb
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\AWSSDK.Core.xml
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\AWSSDK.SimpleNotificationService.pdb
+D:\New folder\CreateSNSTopic\CreateSNSTopic\bin\Debug\AWSSDK.SimpleNotificationService.xml
+D:\New folder\CreateSNSTopic\CreateSNSTopic\obj\Debug\CreateSNSTopic.csproj.AssemblyReference.cache
+D:\New folder\CreateSNSTopic\CreateSNSTopic\obj\Debug\CreateSNSTopic.csproj.SuggestedBindingRedirects.cache
+D:\New folder\CreateSNSTopic\CreateSNSTopic\obj\Debug\CreateSNSTopic.csproj.CoreCompileInputs.cache
+D:\New folder\CreateSNSTopic\CreateSNSTopic\obj\Debug\CreateSNSTopic.csproj.CopyComplete
+D:\New folder\CreateSNSTopic\CreateSNSTopic\obj\Debug\CreateSNSTopic.exe
+D:\New folder\CreateSNSTopic\CreateSNSTopic\obj\Debug\CreateSNSTopic.pdb
